@@ -1,0 +1,23 @@
+class fanblade
+{
+float b,l,a;
+void getdata(float b1,floatl1)
+{
+ b=b1;
+ l=l1;
+}
+void putdata()
+a=b*l;
+system.output.println("area is"+a);
+{
+}
+
+class object
+}
+public satatic void main(String args[])
+ {
+  fanblade ob=new fanblade();
+  ob.getdata(15,20);
+  ob.putdata();
+ }
+}
